@@ -35,6 +35,5 @@ Use GitHub
 >install pandas make sure virtual environment is activated
     '''python3 -m pip install pandas pyarrow'''
 
-> Will not freeze dependency in the requirements.txt may cause errors for this project.
-    '''python3 -m pip freeze > requirements.t
-    
+> freeze dependency in the requirements.txt may cause errors for this project.
+    '''python3 -m pip freeze > requirements.txt'''
