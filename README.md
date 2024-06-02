@@ -110,27 +110,7 @@ def main():
     '''if __name__ == "__main__":
             main()'''
 
+<img width="313" alt="image" src="https://github.com/Ldooley32/datafun-05-sql/assets/140924268/3a34e957-830f-4226-aebc-55593b6a0429">
 
 
 
-
-# Initialize the Project Database
-    create subfolders for our SQL statements, our data files, and we'll keep our Python scripts in the root project folder
-datafun-05-sql/
-│
-├── data/
-│   ├── authors.csv
-│   └── books.csv
-│
-├── sql/
-│   ├── create_tables.sql
-│   ├── insert_records.sql (not used when we read data from csv, but good to see)
-│
-├── project.db
-├── book_manager.py
-
-# Creating a Database from Data at Rest
-On your machine, open your project repository folder in VS Code. In the root project repository folder, create a Python file (module and script) named book_manager.py. 
-    copy over code
-create a SQL file named create_tables.sql    
-    copy over code
